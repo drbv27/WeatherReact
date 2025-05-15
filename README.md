@@ -12,6 +12,8 @@ Estilizando con Tailwind CSS y Lucide React.
 
 ## 📷 Screenshots
 
+<img src="https://raw.githubusercontent.com/drbv27/WeatherReact/main/src/assets/img/screen1.jpeg" alt="Screenshot 5" width="400"/>
+
 ## 🚀 Como ejecutar el proyecto en tu maquina
 
 Sigue estas instrucciones para correr el proyecto en tu maquina. Estas instrucciones asumen que tienes
